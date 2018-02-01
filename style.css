@@ -1,0 +1,35 @@
+body {
+	font-family:'Chewy', sans-serif;
+	color: white;
+}
+
+body { 
+  background: url('colorful-3d-flight.png') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	font-size: 96px;
+}
+
+h3{
+	font-size: 36px;
+}
+
+button {
+	font-family: sans-serif;
+}
+
+.heading {
+	height:120px;
+	margin-top: 250px;
+	margin-bottom: 50px;
+}
+
+.section {
+	height:220px;
+	margin-bottom: 50px;
+}
